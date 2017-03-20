@@ -1,10 +1,24 @@
----
-layout: post
-title: "YOLO:You Only Look Once 笔记"       
+--- 
+layout: post 
+title: "YOLO:You Only Look Once 笔记"        
 category: notes
-author: "转自高伟毅师兄的博客 https://gwyve.github.io/"
----
+author: "转自高伟毅师兄的博客 https://gwyve.github.io/" 
 
+--- 
+
+我读的比较散乱，只把几个觉得比较有意思的点摘了出来。
+## Unified Detection
+![detection](/images/blog/2017-2-15/detection.png)    
+
+把图片分成S×S个grid，每个grid
+cell可以有C类，b个bounding box，因为每个bounding box有5个predictors：x,y,w,h,confidence，所以Tensor=S×S×(B*5+C)    
+
+## Train
+For pretraining we use the first 20 convolutional layers from Figure 3 followed by a average-pooling layer and a fully connected layer.    
+
+这里提到了20 convolutional(average-pooling) + fully connected.
+
+下面是师兄整理的较为完整的论文笔记：    
 
 声明：本博客欢迎转发，但请保留原作者信息!      
 作者：高伟毅    
