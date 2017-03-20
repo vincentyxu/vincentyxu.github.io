@@ -11,7 +11,7 @@ email: mengwenxia16@mails.ucas.ac.cn
 description: Chinese Academy of Sciences
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  WenxiaMeng
+github_username:  mengwx
 paginate: 2
 
 gems: [jekyll-paginate, kramdown]
