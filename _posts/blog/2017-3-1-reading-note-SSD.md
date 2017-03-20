@@ -6,12 +6,14 @@ author: "转自高伟毅师兄的博客 https://gwyve.github.io/"
 
 ---
 
+我只是读了这篇文章的算法部分，个人理解SSD结构的特别之处就是他没有full connect的部分，网络结构是通过多次卷积和增加添加层，这样可以使得计算的速度更快，下面是师兄整理的较为全面的笔记，原文如下：    
+
 
 声明：本博客欢迎转发，但请保留原作者信息!      
 作者：高伟毅    
 博客：[https://gwyve.github.io/](https://gwyve.github.io/)    
 微博：[http://weibo.com/u/3225437531/](http://weibo.com/u/3225437531/)    
-  
+
 ## 引言    
 这篇文章是在YOLO<sub>[1]</sub>之后的一篇文章，这篇文章目前是一篇the-art-of-state的方法。这篇文章可以看到很多前人的影子，我所感受到这篇文章主要借鉴前人的有DeepNultiBox<sub>[2]</sub>、Faster R-CNN<sub>[3]</sub>、YOLO<sub>[1]</sub>、VGG16<sub>[4]</sub>等。        
                                       
