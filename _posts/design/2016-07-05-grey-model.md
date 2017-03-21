@@ -3,6 +3,7 @@ layout: post
 title: "基于灰色预测模型的情报学热点主题发展预测"       
 category: design
 author: "孟文霞"
+
 ---
 
 - [基于灰色预测模型的情报学热点主题发展预测](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=QBKX201607001&uid=WEEvREcwSlJHSldRa1FhcTdWZDlsMVlKT3hGRlgydHhkS2R0cmIrTXMwQT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDQ1NDNVUkwyZlpPUnZGQ2prVWJyTU5DL0Fkckc0SDlmTXFJOUZaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckM=)   
