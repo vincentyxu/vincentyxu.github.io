@@ -5,8 +5,7 @@ permalink: /about/
 category: "about"
 tagline: "It's all about my website."
 ---
-
-
+<!--
 <div class="intro"><br>
   <p>
  Hello there! :) <BR><br>
@@ -16,13 +15,14 @@ tagline: "It's all about my website."
  <br>Thanks to the Gravity theme developed by Hemang! <br>
  </p>
 </div>
-<br><br>
+<br><br>-->
 <div class="intro"><br>
+<p>
+<B>现指导的学生</B>：<br>
+沈宇飞<br>
 
-  <p>
- 大家好! :) <BR><br>
- 我是孟文霞，现就读于中国科学院软件研究所。<br>
- </p>
+<br>
+<B>已毕业的学生</B>：<br>
+</p>
 </div>
-
 

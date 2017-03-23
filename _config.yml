@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Meng wx
-email: mengwenxia16@mails.ucas.ac.cn
-description: Institute of Software Chinese Academy of Sciences
+title: Yang XU
+email: yang.xu@pku.edu.cn
+description: Peking University, China
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  mengwx
+github_username:  vincentyxu
 paginate: 6
 
 gems: [jekyll-paginate, kramdown]
