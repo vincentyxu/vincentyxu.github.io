@@ -1,8 +1,8 @@
 ---
 layout: page
-title: student
-permalink: /student/
-category: "student"
+title: students
+permalink: /students/
+category: "students"
 tagline: "It's all about my students."
 ---
 
