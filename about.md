@@ -20,7 +20,6 @@ tagline: "It's all about my website."
 <p>
 <B>现指导的学生</B>：<br>
 沈宇飞<br>
-沈宇飞<br>
 刘丹丹<br>
 赵炳容<br>
 王伟佳<br>
